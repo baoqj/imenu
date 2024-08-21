@@ -1,5 +1,5 @@
 # imenu
-Intelligent Menu and Order system
+Intelligent Menu and Order System
 
 ## Project Overview: Restaurant Menu System
 
@@ -50,3 +50,6 @@ Develop a Restaurant Menu System named imenu.ca, utilizing React, Node.js, and F
 - Firebase Authentication: Manages user authentication securely to handle secure login and registration processes.
 - Secure payment gateways to handle transactions, ensuring PCI-DSS compliance.
 
+
+## Links
+- website: [www.imenu.ca](www.imenu.ca 'Intelligent Menu and Order System')
