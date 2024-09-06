@@ -1,0 +1,102 @@
+[
+    {
+        "_id": {
+            "$oid": "6170377bc2708211fe2e7c28"
+        },
+        "name": "mахх",
+        "price": 450,
+        "brand": "LG",
+        "category": "mobile",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "61703799c2708211fe2e7c2c"
+        },
+        "name": "m 40 pro",
+        "price": 500,
+        "brand": "Samsung",
+        "category": "mobile",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "6170377bc2708211fe2e7c29"
+        },
+        "name": "mахх 2",
+        "price": 470,
+        "brand": "LG",
+        "category": "mobile",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "61703799c2708211fe2e7c2d"
+        },
+        "name": "m 40 ultra",
+        "price": 530,
+        "brand": "Samsung",
+        "category": "mobile",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "6170377bc2708211fe2e7c2a"
+        },
+        "name": "mахх plus",
+        "price": 490,
+        "brand": "LG",
+        "category": "mobile",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "61703799c2708211fe2e7c2e"
+        },
+        "name": "m 40 lite",
+        "price": 520,
+        "brand": "Samsung",
+        "category": "mobile",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "6170377bc2708211fe2e7c2b"
+        },
+        "name": "mахх ultra",
+        "price": 480,
+        "brand": "LG",
+        "category": "mobile",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "61703799c2708211fe2e7c2f"
+        },
+        "name": "m 40 max",
+        "price": 550,
+        "brand": "Samsung",
+        "category": "mobile",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "6170377bc2708211fe2e7c30"
+        },
+        "name": "mахх s",
+        "price": 460,
+        "brand": "LG",
+        "category": "mobile",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "61703799c2708211fe2e7c31"
+        },
+        "name": "m 40 plus",
+        "price": 510,
+        "brand": "Samsung",
+        "category": "mobile",
+        "__v": 0
+    }
+]
