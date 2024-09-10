@@ -1,5 +1,7 @@
 # imenu
-Intelligent Menu and Order System
+#### Intelligent Menu and Order System
+
+### *JohnAbbott College* FSD-11 Qingjun BAO 2398022
 
 ## Project Overview: Restaurant Menu System
 
